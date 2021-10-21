@@ -1,0 +1,38 @@
+body{
+    color:brown;
+    background-color: aliceblue;
+}
+p{
+    color: black;
+}
+div.titre{
+    background-color:bisque;
+    height: 100px;
+    width:100% ;
+    padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img.hh{
+width: 60%;
+height: 20%;
+
+}
+.liste{
+width: 60%;
+color: #000;
+margin-left: 300px;
+height: 120px;
+
+}
+
+div.second{
+
+    background-color:bisque;
+    height: 400px;
+    width: 100%;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+
